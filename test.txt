@@ -305,7 +305,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
     <td align="center" class="alignment" id="logo1" background="https://686.efuserassets.com/686/offers/13803/c/39479/assets/logo.png">
 	<td align="center" class="alignment" id="logo1" background="//686.efuserassets.com/686/offers/13803/c/39479/assets/logo.png">
 
-        <a href="https://bizokalpa.myftp.biz/sph/13803" style="outline:none; height: 25px; display: block;" tabindex="-1" target="_blank"></a>
+        <a href="https://bizokalpa.myftp.biz/sph/13803/coms" style="outline:none; height: 25px; display: block;" tabindex="-1" target="_blank"></a>
 
     </td>
 
@@ -319,7 +319,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  </table>
 
- <a style="text-decoration: none;" href="https://bizokalpa.myftp.biz/sph/13803" target="_blank" style="text-decoration:none;">
+ <a style="text-decoration: none;" href="https://bizokalpa.myftp.biz/sph/13803/coms" target="_blank" style="text-decoration:none;">
 
  <table class="section header" cellpadding="" cellspacing="" align="center">
 
@@ -427,7 +427,7 @@ font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; ;
 
  <td align="center">
 
-    <a href="https://bizokalpa.myftp.biz/sph/13803" class="cta"><span>G</span><span>E</span><span>T S</span><span>T</span><span>A</span><span>R</span><span>T</span><span>E</span><span>D N</span><span>OW!</span></a>
+    <a href="https://bizokalpa.myftp.biz/sph/13803/coms" class="cta"><span>G</span><span>E</span><span>T S</span><span>T</span><span>A</span><span>R</span><span>T</span><span>E</span><span>D N</span><span>OW!</span></a>
 
     
 
